@@ -4,9 +4,9 @@ Playful money app for freelancers with a holographic card and an invoice-to-paid
 
 ![Kite template preview](docs/preview.png)
 
-**Live demo:** https://kite-astro-template.vercel.app
+**[Live demo](https://kite-astro-template.vercel.app)**
 
-**See it on onepaste (with the AI prompt that built it):** https://onepaste.dev/templates/kite/?utm_source=github&utm_medium=readme&utm_campaign=astro-theme-kite
+**[See it on onepaste, with the AI prompt that built it](https://onepaste.dev/templates/kite/?utm_source=github&utm_medium=readme&utm_campaign=astro-theme-kite)**
 
 ## Features
 
@@ -87,11 +87,11 @@ The Google Fonts (Gabarito and Bagel Fat One) load from the font import in `Kite
 
 ## Get the AI prompt behind this template
 
-This template was built from a single copy-paste prompt on onepaste. More animated landing pages with prompts are at https://onepaste.dev/?utm_source=github&utm_medium=readme&utm_campaign=astro-theme-kite
+This template was built from a single copy-paste prompt on onepaste. More animated landing pages with prompts are on [onepaste.dev](https://onepaste.dev/?utm_source=github&utm_medium=readme&utm_campaign=astro-theme-kite).
 
 ## Need a custom website?
 
-WebScale builds custom websites and landing pages: https://webscale.pl/en/?utm_source=github&utm_medium=readme&utm_campaign=astro-theme-kite
+WebScale builds custom websites and landing pages: [webscale.pl](https://webscale.pl/en/?utm_source=github&utm_medium=readme&utm_campaign=astro-theme-kite).
 
 ## License
 
