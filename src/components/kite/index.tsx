@@ -12,6 +12,7 @@ import { Pricing } from "./Pricing";
 import { Faq } from "./Faq";
 import { Footer } from "./Footer";
 import { KiteString } from "./KiteString";
+import { OnepasteBanner } from "./OnepasteBanner";
 
 export default function Kite() {
   const rootRef = useRef<HTMLDivElement>(null);
@@ -33,6 +34,7 @@ export default function Kite() {
         </main>
         <Footer />
         <KiteString rootRef={rootRef} />
+        <OnepasteBanner />
       </div>
     </MotionConfig>
   );
